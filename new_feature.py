@@ -1,5 +1,5 @@
 Some content
 More content
-Bug fixes
-Hotfix changes
+Bug thing fixes
+Hotfix 
 more fixes
